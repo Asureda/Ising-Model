@@ -1,4 +1,4 @@
-# Molecular Dynamics Simulations
+# Ising Model 2D Montecarlo Analysis
 
 * Motivation
 
